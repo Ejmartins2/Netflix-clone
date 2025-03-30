@@ -7,5 +7,7 @@
 <br>
 <h2>Tecnologias utilizadas:</h2>
 <img src="https://github.com/Ejmartins2/Netflix-clone/blob/master/img/icons8-html-5-48.png?raw=true">
+<img src="https://github.com/Ejmartins2/Netflix-clone/blob/master/img/icons8-css-logo-48.png?raw=true">
+
 
 
