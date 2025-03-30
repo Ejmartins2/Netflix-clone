@@ -11,6 +11,8 @@
 <img src="https://github.com/Ejmartins2/Netflix-clone/blob/master/img/icons8-css-logo-48.png?raw=true">
 <img src="https://github.com/Ejmartins2/Netflix-clone/blob/master/img/icons8-javascript-48.png?raw=true">
 </p>
+obs: a marca d'água é porque tive que redimencionar o video :)
+<br>
 
 https://github.com/user-attachments/assets/a28d03e5-63dd-47e1-a376-c1075dcc4b77
 
